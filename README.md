@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 👨‍💻 All of my projects are available at **www.behance.net/kavinperera**
+- 👨‍💻 All of my design projects are available at **www.behance.net/kavinperera**
 
 - 📫 How to reach me **pererakavin552@gmail.com**
 
